@@ -1,7 +1,7 @@
 # Ujian Tengah Semester
 
 ### Soal 1
-Jelaskan perbedaan antara kelas dan objek> dalam pemrograman berorientasi objek. Berikan contoh kode sederhana yang menunjukkan hubungan antar kelas dan objek.<br>
+Jelaskan perbedaan antara kelas dan objek dalam pemrograman berorientasi objek. Berikan contoh kode sederhana yang menunjukkan hubungan antar kelas dan objek.<br>
 File jawaban : <br>
 https://github.com/itozt/UTS-PBO/blob/main/Mobil.java
 
